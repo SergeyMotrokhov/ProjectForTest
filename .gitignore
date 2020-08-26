@@ -1,0 +1,6 @@
+﻿#папка test игнорируется полностью
+testFalder/
+
+#все файлы txt в target будут огнорироваться 
+target/*.txt
+.idea/
