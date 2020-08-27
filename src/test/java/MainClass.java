@@ -20,5 +20,6 @@ public class MainClass {
 
         System.out.println("Hello my friend !");
         System.out.println("Вот так вот");
+        System.out.println("Вот так вот");
     }
 }
