@@ -16,7 +16,7 @@ public class MainClass {
                 System.out.println("Age: " + value.age);
             }
         }
-        System.out.println("LaLaLaaaaaaaaaUUUUUUUUUUUUUUUUU");
+        System.out.println("L");
 
         System.out.println("Hello my friend !");
         System.out.println("Вот так вот");
