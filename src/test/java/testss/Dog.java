@@ -1,4 +1,4 @@
-package tests;
+package testss;
 
 public class Dog {
 }
