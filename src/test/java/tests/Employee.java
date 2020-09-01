@@ -1,3 +1,5 @@
+package tests;
+
 public class Employee {
     String fio;
     int salary;
