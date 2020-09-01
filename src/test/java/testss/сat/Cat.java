@@ -1,4 +1,4 @@
-package testss;
+package testss.сat;
 
 public class Cat {
 }
